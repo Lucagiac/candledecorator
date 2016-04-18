@@ -8,7 +8,7 @@ The files are ordered in the following way:
 /Print Files contains the .STL files to be printed. We used an Ultimaker 2 with PLA filament. The Cura settings are also included in the folder.
 
 Next to that, it follows the BOM:
--23 x M3 bolts and nuts
+-24 x M3 bolts and nuts
 -8 x M3 screws
 -1 x M5 screw
 -2 x 500mm long (8mm diameter) metal rod
